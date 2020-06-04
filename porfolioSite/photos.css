@@ -1,0 +1,18 @@
+img {
+    width: 30%;
+    float: left;
+    margin: 1.66%;
+}
+
+
+p {
+    font-family: 'Krona One', sans-serif;
+    font-size: 20px;
+    margin-left: 1.66%;
+    font-weight: 800;
+    text-transform: uppercase;
+    border-bottom: 3px solid grey;
+    width: 30%;
+    padding-bottom: 20px;
+
+}
